@@ -32,7 +32,7 @@
     "eslint-config-next": "14.2.2",
     "eslint-plugin-storybook": "^0.8.0",
     "postcss": "^8",
-    "storybook": "^8.0.8",
+    "storybook": "^6.5.16",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
